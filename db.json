@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Awita con coffe's",
+      "precio": "20",
+      "id": 5
+    },
+    {
+      "nombre": "Telefono Wawei plus",
+      "precio": "500",
+      "id": 11
+    },
+    {
+      "nombre": "Espadita pes",
+      "precio": 28,
+      "id": 12
+    },
+    {
+      "nombre": "Celularsin",
+      "precio": 1,
+      "id": 13
+    }
+  ]
+}
